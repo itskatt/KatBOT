@@ -1,0 +1,14 @@
+# The token
+TOKEN = "mytoken"
+
+# The prefix
+BOT_PREFIX = "myprefix "
+
+# The status of out bot
+STATUS = "mystatus"
+
+# Google custom search api key
+GOOGLE_CSE_KEY = "mykey"
+
+# Screenshotlayer api key
+SCREENSHOTLAYER_KEY = "mykey"

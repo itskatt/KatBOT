@@ -1,0 +1,8 @@
+discord.py>=1.2
+aiohttp
+async_cse
+import_expression
+async_timeout
+psutil
+Pillow
+numpy
